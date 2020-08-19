@@ -1,19 +1,20 @@
-title:              Ashhyun
+title:              For my shine
+logo:               Ashhyun
 email:              abyssinial@naver.com
-description:        Data science
+description:        데이터과학 프로그래머입니다
 author:             Ashhyun
 baseurl:            ""
 url:                "https://ashhyun.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
+twitter_username:   
 github_username:    Ashhyun
 facebook_username:  
-instagram_username:  
+instagram_username:  abyssinial
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-159363886-1 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
