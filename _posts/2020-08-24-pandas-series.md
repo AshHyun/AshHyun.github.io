@@ -1,5 +1,5 @@
 ---
-title: "2020-08-24-pandas-series"
+title: "[Pandas] Series의 생성과 조작"
 search: true
 categories:
  - Pandas
