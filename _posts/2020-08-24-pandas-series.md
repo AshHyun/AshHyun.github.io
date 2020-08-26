@@ -13,6 +13,7 @@ excerpt: "판다스 Series 자료구조 알아보기"
 classes: wide
 toc: true
 toc_sticky: true
+toc_label: "목차"
 ---
 
 ---
@@ -25,7 +26,7 @@ toc_sticky: true
 
 ## 1. Pandas Series 생성하기
 
-Series는 가장 간단한 1차원적인 자료구조라고 생각할 수 있습니다. 다른 프로그래밍 언어를 다뤄본 분들이라면 바로 이해할 만한 배열, 리스트, 딕셔너리와 비슷합니다. 실제로 배열, 리스트 등과 같은 시퀀스 데이터를 받아서 바로 Series 객체로 변환할 수 있습니다. <br><br>
+*Series*는 가장 간단한 1차원적인 자료구조라고 생각할 수 있습니다. 다른 프로그래밍 언어를 다뤄본 분들이라면 바로 이해할 만한 배열, 리스트, 딕셔너리와 비슷합니다. 실제로 배열, 리스트 등과 같은 시퀀스 데이터를 받아서 바로 *Series* 객체로 변환할 수 있습니다. <br><br>
 예시를 보여드리겠습니다. 
 
 <div class="prompt input_prompt">
@@ -61,7 +62,7 @@ dtype: int64
 
 
 
-자료형은 굳이 숫자가 아니어도 됩니다. 문자열로 이루어져도 상관 없으며, 문자열과 숫자가 섞여도 자연스럽게 변환이 가능합니다. 높은 호환성과 범용성이 Pandas의 큰 장점이라고 할 수 있죠.
+자료형은 굳이 숫자가 아니어도 됩니다. 문자열로 이루어져도 상관 없으며, 문자열과 숫자가 섞여도 자연스럽게 변환이 가능합니다. 높은 호환성과 범용성이 ***Pandas***의 큰 장점이라고 할 수 있죠.
 
 <div class="prompt input_prompt">
 In&nbsp;[8]:
@@ -127,16 +128,5 @@ dtype: int64
 
 
 
-이렇게 Series를 생성하면 인덱스에도 각 *value*에 해당되는 key값이 적용되는 것을 볼 수 있습니다.
+이렇게 딕셔너리를 이용해서 *Series*를 생성하면 인덱스에도 각 *value*에 해당되는 key값이 적용되는 것을 볼 수 있습니다.
 
-<div class="prompt input_prompt">
-In&nbsp;[None]:
-</div>
-
-<div class="input_area" markdown="1">
-
-```python
-
-```
-
-</div>

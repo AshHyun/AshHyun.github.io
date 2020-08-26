@@ -97,13 +97,13 @@ analytics:
 author:
   name             : "강재현"
   avatar           : "/assets/profile.jpg"
-  bio              : "안녕하세요"
+  bio              : "데이터과학을 공부하고 있는 학부생입니다"
   location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "https://gmail.com/youkind98"
+      url: "mailto:abyssinial@kakao.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
