@@ -462,7 +462,7 @@ sns.barplot(data=train, x="second", y="count", ax=ax6)
 
 
 
-![png](../images/kaggle_bike_sharing_files/kaggle_bike_sharing_6_1.png)
+![png](/images/kaggle_bike_sharing_files/kaggle_bike_sharing_6_1.png)
 
 
 <div class="prompt input_prompt">
