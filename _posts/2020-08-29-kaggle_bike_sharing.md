@@ -15,7 +15,6 @@ toc_label: "목차"
 
 ---
 <div class="prompt input_prompt">
-In&nbsp;[1]:
 </div>
 
 <div class="input_area" markdown="1">
@@ -35,7 +34,6 @@ mpl.rcParams['axes.unicode_minus'] = False
 </div>
 
 <div class="prompt input_prompt">
-In&nbsp;[3]:
 </div>
 
 <div class="input_area" markdown="1">
@@ -59,7 +57,6 @@ train.shape
 
 
 <div class="prompt input_prompt">
-In&nbsp;[6]:
 </div>
 
 <div class="input_area" markdown="1">
@@ -190,7 +187,6 @@ train.head()
 
 
 <div class="prompt input_prompt">
-In&nbsp;[7]:
 </div>
 
 <div class="input_area" markdown="1">
@@ -221,7 +217,6 @@ Name: temp, dtype: float64
 
 
 <div class="prompt input_prompt">
-In&nbsp;[8]:
 </div>
 
 <div class="input_area" markdown="1">
@@ -256,7 +251,6 @@ dtype: int64
 
 
 <div class="prompt input_prompt">
-In&nbsp;[11]:
 </div>
 
 <div class="input_area" markdown="1">
@@ -430,7 +424,6 @@ train.head()
 
 
 <div class="prompt input_prompt">
-In&nbsp;[19]:
 </div>
 
 <div class="input_area" markdown="1">
@@ -466,7 +459,6 @@ sns.barplot(data=train, x="second", y="count", ax=ax6)
 
 
 <div class="prompt input_prompt">
-In&nbsp;[None]:
 </div>
 
 <div class="input_area" markdown="1">
