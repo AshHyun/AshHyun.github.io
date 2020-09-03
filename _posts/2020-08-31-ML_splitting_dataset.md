@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2020-08-31 23:17
 layout: jupyter
 classes: wide
-excerpt: [ML] 데이터를 훈련 세트와 테스트 세트로 분할하기
+excerpt: "[ML] 데이터를 훈련 세트와 테스트 세트로 분할하기"
 toc: true
 toc_sticky: true
 toc_label: "목차"

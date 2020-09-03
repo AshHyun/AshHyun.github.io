@@ -9,7 +9,7 @@ tags:
  - Series
 last_modified_at: 2020-08-24 23:11
 layout: jupyter
-excerpt: "판다스 Series 자료구조 알아보기"
+excerpt: "[Pandas] Series 자료구조 알아보기"
 classes: wide
 toc: true
 toc_sticky: true
