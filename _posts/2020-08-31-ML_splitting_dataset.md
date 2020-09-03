@@ -1,5 +1,5 @@
 ---
-title: "[ML] 데이터셋 분할하기(훈련 세트, 테스트 세트)(1)"
+title: "훈련 데이터셋 분할하기(1)"
 search: true
 categories:
  - 머신러닝
@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2020-08-31 23:17
 layout: jupyter
 classes: wide
-excerpt: 데이터를 훈련 세트와 테스트 세트로 분할하기
+excerpt: [ML] 데이터를 훈련 세트와 테스트 세트로 분할하기
 toc: true
 toc_sticky: true
 toc_label: "목차"
