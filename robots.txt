@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /temp/
+Sitemap: http://ashhyun.github.io/sitemap.xml
