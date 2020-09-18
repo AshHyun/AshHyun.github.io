@@ -6,8 +6,17 @@ main:
  #   url: /about/
   - title: "카테고리"
     url: /categories/
-  - title: "태그"
-    url: /tags/
+  - title: "Kaggle"
+    url: /categories/#kaggle
+  - title: "머신러닝"
+    url: /categories/#머신러닝
+  - title: "딥러닝"
+    url: /categories/#딥러닝
+  - title: "Pandas"
+    url: /categories/#Pandas
+  - title: "Others"
+    url: /categories/#Others
+    
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
