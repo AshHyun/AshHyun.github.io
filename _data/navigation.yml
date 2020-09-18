@@ -13,9 +13,9 @@ main:
   - title: "딥러닝"
     url: /categories/#딥러닝
   - title: "Pandas"
-    url: /categories/#Pandas
-  - title: "Others"
-    url: /categories/#Others
+    url: /categories/#pandas
+#  - title: "Others"
+#    url: /categories/#others
     
   # - title: "Sample Posts"
   #   url: /year-archive/
